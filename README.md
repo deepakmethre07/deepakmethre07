@@ -1,5 +1,9 @@
 # 💫 About Me:
-## About Me :<br><br>🔭 I’m currently working on AI & Python projects  <br>👯 I’m looking to collaborate on open-source and AI projects  <br>🤝 I’m looking for help with Gen AI applications  <br>🌱 I’m currently learning Generative AI and Backend Development  <br>💬 Ask me about Python, AI basics, and web development  <br>⚡ Fun fact: I love building projects that solve real problems<br>
+# Hi, I'm Deepak Methre 👋
+
+🎓 Computer Science Student  
+💻 Passionate about AI, Machine Learning & Software Development  
+🚀 Building practical projects and improving coding skills  
 
 
 ## 🌐 Socials:
