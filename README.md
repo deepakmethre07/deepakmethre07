@@ -2,8 +2,9 @@
 # Hi, I'm Deepak Methre 👋
 
 🎓 Computer Science Student  
-💻 Passionate about AI, Machine Learning & Software Development  
-🚀 Building practical projects and improving coding skills  
+💻 Interested in AI, Machine Learning & Software Development  
+🚀 Building real-world projects and improving problem-solving skills  
+📈 Learning something new every day  
 
 
 ## 🌐 Socials:
@@ -16,5 +17,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=deepakmethre07&theme=merko)
 
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=deepakmethre07&theme=merko&layout=compact)
+
+⭐ *Always open to collaboration and learning opportunities.*
 
 
